@@ -4,7 +4,8 @@ Detect Numbers which are handwritten (Image Processing)
 * Language: MATLAB/GNU-Octave
 * Description: Using Neural Networks and Image Processing as matrices, detect the number which is handwritten and of 20x20px image
 
-* Details: ex4.m - Octave/MATLAB script that steps through the program
+* Details:
+   * main.m - Octave/MATLAB script that steps through the program
    * ex4data1.mat - Training set of hand-written digits
    * ex4weights.mat - Neural network parameters
    * displayData.m - Function to help visualize the dataset
